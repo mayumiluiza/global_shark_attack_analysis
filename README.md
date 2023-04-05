@@ -15,6 +15,6 @@ The goal of the project
 <li>Visualization</li>
 
 ## Technologies
-Python
-Pandas
-Numpy
+<li>Python</li>
+<li>Pandas</li>
+<li>Numpy</li>
