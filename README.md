@@ -10,6 +10,8 @@ The goal of the project
 ## Methods
 <li>Filtering</li>
 <li>Grouping</li>
+<li>Regex</li>
+<li>String</li>
 <li>Visualization</li>
 
 ## Technologies
