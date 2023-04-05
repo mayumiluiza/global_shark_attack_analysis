@@ -8,9 +8,9 @@ Completed
 The goal of the project 
 
 ## Methods
-Filtering
-Grouping
-Visualization
+<li>Filtering</li>
+<li>Grouping</li>
+<li>Visualization</li>
 
 ## Technologies
 Python
