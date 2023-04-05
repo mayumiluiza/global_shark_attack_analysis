@@ -1,4 +1,4 @@
-# shark_attack
+# Shark Attack
 Ironhack's Data Analytics Project #1 
 
 ## Project status
