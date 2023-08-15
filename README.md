@@ -15,5 +15,5 @@ The goal of the project is to analyse the global shark attacks we have all year 
 
 ## Technologies
 <li>Python</li>
-<li>Pandas</li>
-<li>Numpy</li>
+<li>Jupyter Notebook</li>
+
